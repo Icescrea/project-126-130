@@ -1,0 +1,30 @@
+.speed_img,.volume_img
+{
+
+width: 200px;
+border-radius: 100px ;
+
+}
+
+.div_speed{
+
+    float :left;
+}
+
+.div_volume{
+
+    float :right;
+}
+
+button{
+
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+
+    border: 5px solid grey;
+    border-radius: 20px;
+}
+
